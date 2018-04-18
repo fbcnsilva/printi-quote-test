@@ -6,7 +6,7 @@
 You will need php (with pdo and mbstring), git, node, npm, and composer installed on your computer.
 
 ## Demo
-https://fabiolabs.com/demo/printi-quote-test
+https://fabiolabs.com/demo/printi-quote/
 
 ## Building
 #### Backend
